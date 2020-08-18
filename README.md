@@ -14,11 +14,11 @@ This is part of the code implemented to create an autocomplete search form that 
 - [Initializing the Geocoder](#initializing-the-geocoder)
 - [Search HTML Markup](#search-html-markup)
 - [Contact Details](#contact-details)
-- [Inspiration](#inspiration)
 
 
 ## LocationIQ
 
+<br/>
 <img src="https://locationiq.com/static/v2/images/logo.png" title="LocationIQ" alt="LocationIQ">
 
 Blazing fast Location APIs. Geocoding, Maps and Routing for everyone • Affordable • Scalable
@@ -85,9 +85,3 @@ searchBoxControl.appendChild(geocoderContainer);
 > :iphone: [Instagram](https://www.instagram.com/panos_agapiou/)
 
 > :iphone: [Facebook](https://www.facebook.com/panagiotis.agapiou)
-
-
-## Inspiration
-
-
-- **[Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)**
