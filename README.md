@@ -48,7 +48,7 @@ searchBoxControl.appendChild(geocoderContainer);
 ## Search Form HTML Markup
 
 
-> The library will recognize the element with id `search-box` and create the markup for the form
+> The library will recognize the element with id `search-box` and create the markup for the form.
 
 
 ```html
